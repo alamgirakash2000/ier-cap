@@ -1,0 +1,2 @@
+# Written by scripts/select_rule.py from the ablation runs (P1) only.
+chosen_arm: IER_CAP

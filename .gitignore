@@ -1,0 +1,19 @@
+# Training output, written by scripts/run_main.py
+results/
+checkpoints/
+logs/
+
+# Output of paper/make_paper.py
+paper/out/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# Editors and systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

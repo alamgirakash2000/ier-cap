@@ -1,0 +1,5 @@
+[project]
+name = "iercap"
+version = "1.0.0"
+description = "IER-CAP: a replay budget for instant episode repetition in off-policy reinforcement learning"
+requires-python = ">=3.11"
